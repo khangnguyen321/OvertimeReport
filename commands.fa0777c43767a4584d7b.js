@@ -1,2 +1,2 @@
 Office.onReady(function(){}),Office.actions.associate("action",function(c){try{Office&&Office.addin&&"function"==typeof Office.addin.showAsTaskpane?Office.addin.showAsTaskpane():Office&&Office.context&&Office.context.ui&&"function"==typeof Office.context.ui.displayDialogAsync&&Office.context.ui.displayDialogAsync("./taskpane.html")}catch(c){console.warn("Unable to open taskpane from command:",c)}c.completed()});
-//# sourceMappingURL=commands.js.map
+//# sourceMappingURL=commands.fa0777c43767a4584d7b.js.map
