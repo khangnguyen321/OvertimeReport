@@ -249,3 +249,30 @@ details[open] .insights-toggle::before { content: "- "; }
   background: #7a8aaa;
   cursor: not-allowed;
 }
+
+/* ── Format Active Sheet button ── */
+.btn-style {
+  display: block;
+  width: calc(100% - 20px);
+  margin: 0 auto 14px;
+  padding: 9px;
+  background: #8B5E00;
+  color: var(--white);
+  border: none;
+  border-radius: 4px;
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.btn-style:hover {
+  background: #a37000;
+}
+
+.btn-style:disabled {
+  background: #9a9a7a;
+  cursor: not-allowed;
+}

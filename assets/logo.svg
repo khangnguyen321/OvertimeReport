@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background: dark slate rounded square -->
+  <rect width="128" height="128" rx="22" fill="#1F2937"/>
+
+  <!-- Top accent bar: golden brown -->
+  <rect x="18" y="14" width="92" height="5" rx="2.5" fill="#8B5E00"/>
+
+  <!-- "MB" lettering -->
+  <text
+    x="64"
+    y="66"
+    font-family="'Arial Black', 'Arial', sans-serif"
+    font-weight="900"
+    font-size="42"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="#FFFFFF"
+    letter-spacing="-1"
+  >MB</text>
+
+  <!-- Divider line -->
+  <rect x="18" y="78" width="92" height="2" rx="1" fill="#374151"/>
+
+  <!-- "PORTER" label -->
+  <text
+    x="64"
+    y="100"
+    font-family="'Arial', sans-serif"
+    font-weight="700"
+    font-size="15"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    fill="#16A34A"
+    letter-spacing="3"
+  >PORTER</text>
+
+  <!-- Bottom accent: three small chart bars -->
+  <rect x="30" y="112" width="8"  height="6"  rx="1.5" fill="#0369A1" opacity="0.8"/>
+  <rect x="42" y="109" width="8"  height="9"  rx="1.5" fill="#0369A1" opacity="0.9"/>
+  <rect x="54" y="106" width="8"  height="12" rx="1.5" fill="#0369A1"/>
+  <rect x="66" y="108" width="8"  height="10" rx="1.5" fill="#16A34A"/>
+  <rect x="78" y="104" width="8"  height="14" rx="1.5" fill="#16A34A"/>
+  <rect x="90" y="107" width="8"  height="11" rx="1.5" fill="#8B5E00" opacity="0.9"/>
+</svg>

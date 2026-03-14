@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>OvertimeReport</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="Overtime Report"/>
+  <DisplayName DefaultValue="MB-Porter Report"/>
   <Description DefaultValue="Automated overtime dashboard for Mechanic BASE and Porter data. Builds pivot tables, KPI cards, charts, and AI-powered insights from your RawData sheet."/>
   <IconUrl DefaultValue="https://khangnguyen321.github.io/overtime-report/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://khangnguyen321.github.io/overtime-report/assets/icon-64.png"/>
@@ -74,13 +74,13 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://khangnguyen321.github.io/overtime-report/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GetStarted.Title" DefaultValue="Overtime Report Add-in"/>
-        <bt:String id="CommandsGroup.Label" DefaultValue="Overtime Report"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Overtime Report"/>
+        <bt:String id="GetStarted.Title" DefaultValue="MB-Porter Report Add-in"/>
+        <bt:String id="CommandsGroup.Label" DefaultValue="Automated by Khang Nguyen"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="MB-Porter Report"/>
       </bt:ShortStrings>
       <bt:LongStrings>
-        <bt:String id="GetStarted.Description" DefaultValue="Overtime Report loaded. Go to the HOME tab and click 'Overtime Report' to open the dashboard."/>
-        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Open the Overtime Report dashboard"/>
+        <bt:String id="GetStarted.Description" DefaultValue="MB-Porter Report loaded. Go to the HOME tab and click 'MB-Porter Report' to open the dashboard."/>
+        <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Open the MB-Porter Report dashboard"/>
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
